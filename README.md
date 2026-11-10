@@ -25,7 +25,7 @@ Luego inicia el programa:
 python main.py
 ```
 
-Al iniciar, el programa crea las tablas si aún no existen. La base `reservas.db` se guarda en la carpeta desde donde ejecutas el programa.
+Al iniciar, el programa crea las tablas si aún no existen. La base `prestamos.db` se guarda en la carpeta desde donde ejecutas el programa.
 
 ## Menú
 1. Registrar equipo
@@ -35,4 +35,4 @@ Al iniciar, el programa crea las tablas si aún no existen. La base `reservas.db
 5. Registrar devolución. 
 6. Salir.
 
-Para comprobar la persistencia, sal con la opción `0`, abre el programa de nuevo y consulta las reservas. La reserva de Pedro debe seguir apareciendo.
+Para comprobar la persistencia, sal con la opción `0`, abre el programa de nuevo y consulta las reservas.
